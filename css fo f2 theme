@@ -1,0 +1,3 @@
+@media screen and (min-width: 41em)
+body {
+.has-sidebar:not(.error404) #primary { width: 100% }}
